@@ -1,10 +1,11 @@
 {
-  "updated_at": "2026-05-03T07:50:43.040Z",
+  "updated_at": "2026-05-04T19:18:19.591Z",
   "source_org_count": 184,
   "issues": [
     {
       "org": "AFLplusplus",
       "github": "AFLplusplus/AFLplusplus",
+      "logo": "https://avatars.githubusercontent.com/AFLplusplus",
       "title": "When execution time of fork run is much longer than one persistent iteration, all fork execuions will timeout.",
       "url": "https://github.com/AFLplusplus/AFLplusplus/issues/1545",
       "repo": "AFLplusplus/AFLplusplus",
@@ -21,6 +22,7 @@
     {
       "org": "AFLplusplus",
       "github": "AFLplusplus/AFLplusplus",
+      "logo": "https://avatars.githubusercontent.com/AFLplusplus",
       "title": "Unify environment variable handling ",
       "url": "https://github.com/AFLplusplus/AFLplusplus/issues/1564",
       "repo": "AFLplusplus/AFLplusplus",
@@ -36,6 +38,7 @@
     {
       "org": "AnkiDroid",
       "github": "ankidroid/Anki-Android",
+      "logo": "https://avatars.githubusercontent.com/ankidroid",
       "title": "Show progress when updating FSRS memory states",
       "url": "https://github.com/ankidroid/Anki-Android/issues/16642",
       "repo": "ankidroid/Anki-Android",
@@ -52,6 +55,7 @@
     {
       "org": "AnkiDroid",
       "github": "ankidroid/Anki-Android",
+      "logo": "https://avatars.githubusercontent.com/ankidroid",
       "title": "Update to net.mikehardy:google-analytics-java:2.0.11 (needs minSdkVersion >= 24)",
       "url": "https://github.com/ankidroid/Anki-Android/issues/7056",
       "repo": "ankidroid/Anki-Android",
@@ -70,6 +74,7 @@
     {
       "org": "AnkiDroid",
       "github": "ankidroid/Anki-Android",
+      "logo": "https://avatars.githubusercontent.com/ankidroid",
       "title": "Translation sync: improve result when no Pull Request is necessary",
       "url": "https://github.com/ankidroid/Anki-Android/issues/20853",
       "repo": "ankidroid/Anki-Android",
@@ -86,6 +91,7 @@
     {
       "org": "ArduPilot",
       "github": "ArduPilot/ardupilot",
+      "logo": "https://avatars.githubusercontent.com/ArduPilot",
       "title": "copter-circle-speed.lua script appears to not work",
       "url": "https://github.com/ArduPilot/ardupilot/issues/32799",
       "repo": "ArduPilot/ardupilot",
@@ -100,6 +106,7 @@
     {
       "org": "ArduPilot",
       "github": "ArduPilot/ardupilot",
+      "logo": "https://avatars.githubusercontent.com/ArduPilot",
       "title": "AP_DAL_Standalone is broken",
       "url": "https://github.com/ArduPilot/ardupilot/issues/32792",
       "repo": "ArduPilot/ardupilot",
@@ -114,6 +121,7 @@
     {
       "org": "ArduPilot",
       "github": "ArduPilot/ardupilot",
+      "logo": "https://avatars.githubusercontent.com/ArduPilot",
       "title": "Explain strange canonical vehicle altitude",
       "url": "https://github.com/ArduPilot/ardupilot/issues/32720",
       "repo": "ArduPilot/ardupilot",
@@ -128,6 +136,7 @@
     {
       "org": "Boa",
       "github": "boa-dev/boa",
+      "logo": "https://avatars.githubusercontent.com/boa-dev",
       "title": "Add unit tests for bytecode arguments reading",
       "url": "https://github.com/boa-dev/boa/issues/4240",
       "repo": "boa-dev/boa",
@@ -143,6 +152,7 @@
     {
       "org": "Boa",
       "github": "boa-dev/boa",
+      "logo": "https://avatars.githubusercontent.com/boa-dev",
       "title": "Add Boa to Test262-Harness",
       "url": "https://github.com/boa-dev/boa/issues/3431",
       "repo": "boa-dev/boa",
@@ -160,6 +170,7 @@
     {
       "org": "Boa",
       "github": "boa-dev/boa",
+      "logo": "https://avatars.githubusercontent.com/boa-dev",
       "title": "Add tests for `JsSymbol`",
       "url": "https://github.com/boa-dev/boa/issues/3489",
       "repo": "boa-dev/boa",
@@ -175,6 +186,7 @@
     {
       "org": "C2SI",
       "github": "c2siorg",
+      "logo": "https://avatars.githubusercontent.com/c2siorg",
       "title": "Missing Alt Text on Images Causing Accessibility Issues",
       "url": "https://github.com/c2siorg/Codelabz/issues/310",
       "repo": "c2siorg/Codelabz",
@@ -193,6 +205,7 @@
     {
       "org": "cBioPortal for Cancer Genomics",
       "github": "cBioPortal/cbioportal",
+      "logo": "https://avatars.githubusercontent.com/cBioPortal",
       "title": "on study view store opt in to store chart settings",
       "url": "https://github.com/cBioPortal/cbioportal/issues/10738",
       "repo": "cBioPortal/cbioportal",
@@ -208,6 +221,7 @@
     {
       "org": "cBioPortal for Cancer Genomics",
       "github": "cBioPortal/cbioportal",
+      "logo": "https://avatars.githubusercontent.com/cBioPortal",
       "title": "Replace juice with lighter CSS inlining library for SVG export",
       "url": "https://github.com/cBioPortal/cbioportal/issues/12116",
       "repo": "cBioPortal/cbioportal",
@@ -223,6 +237,7 @@
     {
       "org": "cBioPortal for Cancer Genomics",
       "github": "cBioPortal/cbioportal",
+      "logo": "https://avatars.githubusercontent.com/cBioPortal",
       "title": "re-enable caching of docker images during build",
       "url": "https://github.com/cBioPortal/cbioportal/issues/10450",
       "repo": "cBioPortal/cbioportal",
@@ -238,6 +253,7 @@
     {
       "org": "checkstyle",
       "github": "checkstyle/checkstyle",
+      "logo": "https://avatars.githubusercontent.com/checkstyle",
       "title": "Move violation comments out of Javadoc for all input files",
       "url": "https://github.com/checkstyle/checkstyle/issues/19764",
       "repo": "checkstyle/checkstyle",
@@ -246,14 +262,15 @@
         "miscellaneous",
         "good first issue"
       ],
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-04-29T02:48:15Z",
-      "updated_at": "2026-04-29T12:21:51Z",
+      "updated_at": "2026-05-04T16:57:27Z",
       "language": null
     },
     {
       "org": "checkstyle",
       "github": "checkstyle/checkstyle",
+      "logo": "https://avatars.githubusercontent.com/checkstyle",
       "title": "Updating properties in Input files to mention all default properties,",
       "url": "https://github.com/checkstyle/checkstyle/issues/16807",
       "repo": "checkstyle/checkstyle",
@@ -270,6 +287,7 @@
     {
       "org": "CircuitVerse.org",
       "github": "CircuitVerse/CircuitVerse",
+      "logo": "https://avatars.githubusercontent.com/CircuitVerse",
       "title": "[fix] : localization in recent circuits section ",
       "url": "https://github.com/CircuitVerse/CircuitVerse/issues/3552",
       "repo": "CircuitVerse/CircuitVerse",
@@ -286,6 +304,7 @@
     {
       "org": "CircuitVerse.org",
       "github": "CircuitVerse/CircuitVerse",
+      "logo": "https://avatars.githubusercontent.com/CircuitVerse",
       "title": "UI Improvements for Group Page Layout & Styling",
       "url": "https://github.com/CircuitVerse/CircuitVerse/issues/5369",
       "repo": "CircuitVerse/CircuitVerse",
@@ -302,6 +321,7 @@
     {
       "org": "CircuitVerse.org",
       "github": "CircuitVerse/CircuitVerse",
+      "logo": "https://avatars.githubusercontent.com/CircuitVerse",
       "title": "Text is not completely highlighted on hover",
       "url": "https://github.com/CircuitVerse/CircuitVerse/issues/2919",
       "repo": "CircuitVerse/CircuitVerse",
@@ -317,6 +337,7 @@
     {
       "org": "Dart",
       "github": "dart-lang/sdk",
+      "logo": "https://avatars.githubusercontent.com/dart-lang",
       "title": "[vm/ffi] Migrate legacy multi test files",
       "url": "https://github.com/dart-lang/sdk/issues/60212",
       "repo": "dart-lang/sdk",
@@ -334,6 +355,7 @@
     {
       "org": "DBpedia",
       "github": "dbpedia/databus",
+      "logo": "https://avatars.githubusercontent.com/dbpedia",
       "title": "Customize initial 401 Unauthorized page (in a private setup)",
       "url": "https://github.com/dbpedia/databus/issues/149",
       "repo": "dbpedia/databus",
@@ -350,6 +372,7 @@
     {
       "org": "dora-rs",
       "github": "dora-rs/dora",
+      "logo": "https://avatars.githubusercontent.com/dora-rs",
       "title": "Improve Users-Getting Started on dora-rs.ai",
       "url": "https://github.com/dora-rs/dora/issues/885",
       "repo": "dora-rs/dora",
@@ -364,6 +387,7 @@
     {
       "org": "dora-rs",
       "github": "dora-rs/dora",
+      "logo": "https://avatars.githubusercontent.com/dora-rs",
       "title": "Use pyo3 experimental-inspect instead of `generate_stubs.py`",
       "url": "https://github.com/dora-rs/dora/issues/829",
       "repo": "dora-rs/dora",
@@ -379,6 +403,7 @@
     {
       "org": "dora-rs",
       "github": "dora-rs/dora",
+      "logo": "https://avatars.githubusercontent.com/dora-rs",
       "title": "Provide progress bars for time-consuming operations",
       "url": "https://github.com/dora-rs/dora/issues/1229",
       "repo": "dora-rs/dora",
@@ -394,6 +419,7 @@
     {
       "org": "Eclipse Foundation",
       "github": "eclipse-platform/eclipse.platform",
+      "logo": "https://avatars.githubusercontent.com/eclipse-platform",
       "title": "Reactivate tests: disabled tests collection",
       "url": "https://github.com/eclipse-platform/eclipse.platform/issues/525",
       "repo": "eclipse-platform/eclipse.platform",
@@ -409,6 +435,7 @@
     {
       "org": "Eclipse Foundation",
       "github": "eclipse-platform/eclipse.platform",
+      "logo": "https://avatars.githubusercontent.com/eclipse-platform",
       "title": "If importing a project failed because its exist, ask the user to open/jump to the project",
       "url": "https://github.com/eclipse-platform/eclipse.platform/issues/1978",
       "repo": "eclipse-platform/eclipse.platform",
@@ -422,23 +449,9 @@
       "language": null
     },
     {
-      "org": "Eclipse Foundation",
-      "github": "eclipse-platform/eclipse.platform",
-      "title": "Get rid of deprecated org.eclipse.core.runtime.Preferences in platform code",
-      "url": "https://github.com/eclipse-platform/eclipse.platform/issues/497",
-      "repo": "eclipse-platform/eclipse.platform",
-      "labels": [
-        "good first issue",
-        "technical debt"
-      ],
-      "comments": 14,
-      "created_at": "2023-06-14T10:35:34Z",
-      "updated_at": "2023-10-09T15:54:59Z",
-      "language": null
-    },
-    {
       "org": "FOSSology",
       "github": "fossology/fossology",
+      "logo": "https://avatars.githubusercontent.com/fossology",
       "title": "Bug: Unable to clear upload description and comment",
       "url": "https://github.com/fossology/fossology/issues/3002",
       "repo": "fossology/fossology",
@@ -454,6 +467,7 @@
     {
       "org": "FOSSology",
       "github": "fossology/fossology",
+      "logo": "https://avatars.githubusercontent.com/fossology",
       "title": "REST API: Users creation/management",
       "url": "https://github.com/fossology/fossology/issues/1578",
       "repo": "fossology/fossology",
@@ -469,6 +483,7 @@
     {
       "org": "FOSSology",
       "github": "fossology/fossology",
+      "logo": "https://avatars.githubusercontent.com/fossology",
       "title": "Add copyright export to fo_nomos_license_list",
       "url": "https://github.com/fossology/fossology/issues/1715",
       "repo": "fossology/fossology",
@@ -484,6 +499,7 @@
     {
       "org": "Fortran-lang",
       "github": "fortran-lang/stdlib",
+      "logo": "https://avatars.githubusercontent.com/fortran-lang",
       "title": "Input() function",
       "url": "https://github.com/fortran-lang/stdlib/issues/259",
       "repo": "fortran-lang/stdlib",
@@ -501,6 +517,7 @@
     {
       "org": "Fortran-lang",
       "github": "fortran-lang/stdlib",
+      "logo": "https://avatars.githubusercontent.com/fortran-lang",
       "title": "Pretty printing of matrices (and multidimensional arrays)",
       "url": "https://github.com/fortran-lang/stdlib/issues/40",
       "repo": "fortran-lang/stdlib",
@@ -518,6 +535,27 @@
     {
       "org": "FreeCAD",
       "github": "FreeCAD/FreeCAD",
+      "logo": "https://avatars.githubusercontent.com/FreeCAD",
+      "title": "Core: Thumbnails for file browsers not created on Linux",
+      "url": "https://github.com/FreeCAD/FreeCAD/issues/20678",
+      "repo": "FreeCAD/FreeCAD",
+      "labels": [
+        "Type: Bug",
+        "Mod: Core",
+        "Good first issue",
+        "File format: FCStd",
+        "OS: Linux",
+        "Status: Confirmed"
+      ],
+      "comments": 8,
+      "created_at": "2025-04-07T10:22:26Z",
+      "updated_at": "2026-05-03T16:23:11Z",
+      "language": null
+    },
+    {
+      "org": "FreeCAD",
+      "github": "FreeCAD/FreeCAD",
+      "logo": "https://avatars.githubusercontent.com/FreeCAD",
       "title": "Expressions: Broken references and Fx icon on sketcher dimensions should show with \"broken reference\" color (orange like with projected geometry)",
       "url": "https://github.com/FreeCAD/FreeCAD/issues/23715",
       "repo": "FreeCAD/FreeCAD",
@@ -537,6 +575,7 @@
     {
       "org": "FreeCAD",
       "github": "FreeCAD/FreeCAD",
+      "logo": "https://avatars.githubusercontent.com/FreeCAD",
       "title": "VarSet: removes the prefix of a variable name if it is the same as the Group Name",
       "url": "https://github.com/FreeCAD/FreeCAD/issues/29496",
       "repo": "FreeCAD/FreeCAD",
@@ -552,25 +591,9 @@
       "language": null
     },
     {
-      "org": "FreeCAD",
-      "github": "FreeCAD/FreeCAD",
-      "title": "BIM: Project Setup dialog window width is too small",
-      "url": "https://github.com/FreeCAD/FreeCAD/issues/20287",
-      "repo": "FreeCAD/FreeCAD",
-      "labels": [
-        "Mod: BIM",
-        "Topic: User Interface",
-        "Type: Feature",
-        "Good first issue"
-      ],
-      "comments": 8,
-      "created_at": "2025-03-19T05:33:33Z",
-      "updated_at": "2026-05-02T06:33:31Z",
-      "language": null
-    },
-    {
       "org": "GeomScale",
       "github": "GeomScale/volesti",
+      "logo": "https://avatars.githubusercontent.com/GeomScale",
       "title": " Fix examples and CI integration",
       "url": "https://github.com/GeomScale/volesti/issues/193",
       "repo": "GeomScale/volesti",
@@ -587,6 +610,7 @@
     {
       "org": "GeomScale",
       "github": "GeomScale/volesti",
+      "logo": "https://avatars.githubusercontent.com/GeomScale",
       "title": "Replace Eigen pointers with iterators",
       "url": "https://github.com/GeomScale/volesti/issues/105",
       "repo": "GeomScale/volesti",
@@ -603,6 +627,7 @@
     {
       "org": "GeomScale",
       "github": "GeomScale/volesti",
+      "logo": "https://avatars.githubusercontent.com/GeomScale",
       "title": "Inefficient handling of burn in phase in sampling functions",
       "url": "https://github.com/GeomScale/volesti/issues/180",
       "repo": "GeomScale/volesti",
@@ -618,6 +643,7 @@
     {
       "org": "German Center for Open Source AI",
       "github": "openml/openml-python",
+      "logo": "https://avatars.githubusercontent.com/openml",
       "title": "[DOC] Update documentation for running tests with local services",
       "url": "https://github.com/openml/openml-python/issues/1708",
       "repo": "openml/openml-python",
@@ -633,6 +659,7 @@
     {
       "org": "German Center for Open Source AI",
       "github": "openml/openml-python",
+      "logo": "https://avatars.githubusercontent.com/openml",
       "title": "[MNT] Add Missing Assertions to Run Function Tests",
       "url": "https://github.com/openml/openml-python/issues/1646",
       "repo": "openml/openml-python",
@@ -649,6 +676,7 @@
     {
       "org": "German Center for Open Source AI",
       "github": "openml/openml-python",
+      "logo": "https://avatars.githubusercontent.com/openml",
       "title": "[MNT] Remove `__version__.py` module and define `__version__` in `__init__`",
       "url": "https://github.com/openml/openml-python/issues/1642",
       "repo": "openml/openml-python",
@@ -664,6 +692,7 @@
     {
       "org": "GNU Radio",
       "github": "gnuradio/gnuradio",
+      "logo": "https://avatars.githubusercontent.com/gnuradio",
       "title": "GRC: Allow for required parameters",
       "url": "https://github.com/gnuradio/gnuradio/issues/5096",
       "repo": "gnuradio/gnuradio",
@@ -681,6 +710,7 @@
     {
       "org": "GNU Radio",
       "github": "gnuradio/gnuradio",
+      "logo": "https://avatars.githubusercontent.com/gnuradio",
       "title": "FileSink should have an option to fail if file already exists",
       "url": "https://github.com/gnuradio/gnuradio/issues/1288",
       "repo": "gnuradio/gnuradio",
@@ -697,6 +727,7 @@
     {
       "org": "GNU Radio",
       "github": "gnuradio/gnuradio",
+      "logo": "https://avatars.githubusercontent.com/gnuradio",
       "title": "RFE: Qt Digital Number Control - make max and min frequencies runtime changeable",
       "url": "https://github.com/gnuradio/gnuradio/issues/5110",
       "repo": "gnuradio/gnuradio",
@@ -713,6 +744,7 @@
     {
       "org": "Graphite",
       "github": "GraphiteEditor/Graphite",
+      "logo": "https://avatars.githubusercontent.com/GraphiteEditor",
       "title": "Show selection bounding box width/height in the X/Y rulers",
       "url": "https://github.com/GraphiteEditor/Graphite/issues/1969",
       "repo": "GraphiteEditor/Graphite",
@@ -728,6 +760,7 @@
     {
       "org": "Graphite",
       "github": "GraphiteEditor/Graphite",
+      "logo": "https://avatars.githubusercontent.com/GraphiteEditor",
       "title": "The Artboard tool needs to support G/S (grab and scale) transformation",
       "url": "https://github.com/GraphiteEditor/Graphite/issues/4026",
       "repo": "GraphiteEditor/Graphite",
@@ -742,6 +775,7 @@
     {
       "org": "Graphite",
       "github": "GraphiteEditor/Graphite",
+      "logo": "https://avatars.githubusercontent.com/GraphiteEditor",
       "title": "Dragging handle back into its anchor makes its opposite handle move around randomly",
       "url": "https://github.com/GraphiteEditor/Graphite/issues/2451",
       "repo": "GraphiteEditor/Graphite",
@@ -756,6 +790,7 @@
     {
       "org": "Internet Archive",
       "github": "internetarchive/openlibrary",
+      "logo": "https://avatars.githubusercontent.com/internetarchive",
       "title": "Test Edit Profile Page Interactive Elements for Accessibility",
       "url": "https://github.com/internetarchive/openlibrary/issues/4914",
       "repo": "internetarchive/openlibrary",
@@ -763,16 +798,18 @@
         "Priority: 3",
         "Good First Issue",
         "Theme: Accessibility",
-        "Lead: @jimchamp"
+        "Lead: @jimchamp",
+        "Needs: Response"
       ],
-      "comments": 2,
+      "comments": 4,
       "created_at": "2021-03-26T23:08:31Z",
-      "updated_at": "2026-05-03T02:06:21Z",
+      "updated_at": "2026-05-04T09:15:52Z",
       "language": null
     },
     {
       "org": "Internet Archive",
       "github": "internetarchive/openlibrary",
+      "logo": "https://avatars.githubusercontent.com/internetarchive",
       "title": "Images broken on German version of openlibrary.org/tour",
       "url": "https://github.com/internetarchive/openlibrary/issues/12540",
       "repo": "internetarchive/openlibrary",
@@ -787,12 +824,13 @@
       ],
       "comments": 6,
       "created_at": "2026-05-01T15:29:01Z",
-      "updated_at": "2026-05-03T01:58:19Z",
+      "updated_at": "2026-05-03T09:00:55Z",
       "language": null
     },
     {
       "org": "Internet Archive",
       "github": "internetarchive/openlibrary",
+      "logo": "https://avatars.githubusercontent.com/internetarchive",
       "title": "Test Recent Changes Page Interactive Elements for Accessibility",
       "url": "https://github.com/internetarchive/openlibrary/issues/4916",
       "repo": "internetarchive/openlibrary",
@@ -810,6 +848,42 @@
     {
       "org": "JabRef e.V.",
       "github": "JabRef/jabref",
+      "logo": "https://avatars.githubusercontent.com/JabRef",
+      "title": "Add entry using URL",
+      "url": "https://github.com/JabRef/jabref/issues/15411",
+      "repo": "JabRef/jabref",
+      "labels": [
+        "component: fetcher",
+        "good first issue",
+        "📍 Assigned",
+        "🔔 reminder-sent"
+      ],
+      "comments": 18,
+      "created_at": "2026-03-25T10:56:09Z",
+      "updated_at": "2026-05-04T12:49:23Z",
+      "language": null
+    },
+    {
+      "org": "JabRef e.V.",
+      "github": "JabRef/jabref",
+      "logo": "https://avatars.githubusercontent.com/JabRef",
+      "title": "DOI data should be added in multli merge dialog",
+      "url": "https://github.com/JabRef/jabref/issues/15415",
+      "repo": "JabRef/jabref",
+      "labels": [
+        "good first issue",
+        "📍 Assigned",
+        "🔔 reminder-sent"
+      ],
+      "comments": 11,
+      "created_at": "2026-03-25T13:48:30Z",
+      "updated_at": "2026-05-04T12:49:20Z",
+      "language": null
+    },
+    {
+      "org": "JabRef e.V.",
+      "github": "JabRef/jabref",
+      "logo": "https://avatars.githubusercontent.com/JabRef",
       "title": "Citations: Double click on entry should add and focus it",
       "url": "https://github.com/JabRef/jabref/issues/15460",
       "repo": "JabRef/jabref",
@@ -825,42 +899,9 @@
       "language": null
     },
     {
-      "org": "JabRef e.V.",
-      "github": "JabRef/jabref",
-      "title": "Selecting previous/next entry using keyboard shortcut should not focus the search field",
-      "url": "https://github.com/JabRef/jabref/issues/14943",
-      "repo": "JabRef/jabref",
-      "labels": [
-        "platform: windows",
-        "component: entry-editor",
-        "component: keybinding",
-        "good first issue",
-        "📍 Assigned"
-      ],
-      "comments": 19,
-      "created_at": "2026-01-27T22:38:13Z",
-      "updated_at": "2026-04-29T04:19:45Z",
-      "language": null
-    },
-    {
-      "org": "JabRef e.V.",
-      "github": "JabRef/jabref",
-      "title": "Add entry using URL",
-      "url": "https://github.com/JabRef/jabref/issues/15411",
-      "repo": "JabRef/jabref",
-      "labels": [
-        "component: fetcher",
-        "good first issue",
-        "📍 Assigned"
-      ],
-      "comments": 17,
-      "created_at": "2026-03-25T10:56:09Z",
-      "updated_at": "2026-04-28T02:01:28Z",
-      "language": null
-    },
-    {
       "org": "JdeRobot",
       "github": "JdeRobot/BehaviorMetrics",
+      "logo": "https://avatars.githubusercontent.com/JdeRobot",
       "title": "Fixing the load and reload button",
       "url": "https://github.com/JdeRobot/BehaviorMetrics/issues/675",
       "repo": "JdeRobot/BehaviorMetrics",
@@ -875,6 +916,7 @@
     {
       "org": "JdeRobot",
       "github": "JdeRobot/BehaviorMetrics",
+      "logo": "https://avatars.githubusercontent.com/JdeRobot",
       "title": "Review quick start guide for CARLA simulator and update it",
       "url": "https://github.com/JdeRobot/BehaviorMetrics/issues/667",
       "repo": "JdeRobot/BehaviorMetrics",
@@ -888,41 +930,26 @@
       "language": null
     },
     {
-      "org": "JdeRobot",
-      "github": "JdeRobot/BehaviorMetrics",
-      "title": "Add description of tasks to README",
-      "url": "https://github.com/JdeRobot/BehaviorMetrics/issues/646",
-      "repo": "JdeRobot/BehaviorMetrics",
-      "labels": [
-        "documentation",
-        "good first issue"
-      ],
-      "comments": 10,
-      "created_at": "2023-10-30T10:37:18Z",
-      "updated_at": "2024-03-19T08:42:27Z",
-      "language": null
-    },
-    {
       "org": "Jenkins",
       "github": "jenkinsci/jenkins",
-      "title": "[JENKINS-51291] 'new view' wrong url - not relative",
-      "url": "https://github.com/jenkinsci/jenkins/issues/22743",
+      "logo": "https://avatars.githubusercontent.com/jenkinsci",
+      "title": "Deleting an element from a \"full\" hetero(?) list does not re-enable the \"Add\" button",
+      "url": "https://github.com/jenkinsci/jenkins/issues/26737",
       "repo": "jenkinsci/jenkins",
       "labels": [
+        "regression",
         "good first issue",
-        "imported-jira-issue",
-        "component:core",
-        "priority:minor",
-        "resolution:unresolved"
+        "lts-candidate"
       ],
-      "comments": 19,
-      "created_at": "2018-05-14T09:50:11Z",
-      "updated_at": "2026-05-03T05:16:03Z",
+      "comments": 0,
+      "created_at": "2026-05-04T09:15:52Z",
+      "updated_at": "2026-05-04T12:46:04Z",
       "language": null
     },
     {
       "org": "Jenkins",
       "github": "jenkinsci/jenkins",
+      "logo": "https://avatars.githubusercontent.com/jenkinsci",
       "title": "Add an `AbortController` to `FormChecker.delayedCheck`",
       "url": "https://github.com/jenkinsci/jenkins/issues/26594",
       "repo": "jenkinsci/jenkins",
@@ -937,6 +964,7 @@
     {
       "org": "Jenkins",
       "github": "jenkinsci/jenkins",
+      "logo": "https://avatars.githubusercontent.com/jenkinsci",
       "title": "[JENKINS-59467] Issue Template: Migrate documentation from Wiki to GitHub",
       "url": "https://github.com/jenkinsci/jenkins/issues/25425",
       "repo": "jenkinsci/jenkins",
@@ -956,6 +984,7 @@
     {
       "org": "Joomla!",
       "github": "joomla/joomla-cms",
+      "logo": "https://avatars.githubusercontent.com/joomla",
       "title": "Axe Dev Tools Accesibility Error",
       "url": "https://github.com/joomla/joomla-cms/issues/45679",
       "repo": "joomla/joomla-cms",
@@ -972,6 +1001,7 @@
     {
       "org": "Kiwix",
       "github": "kiwix/kiwix-android",
+      "logo": "https://avatars.githubusercontent.com/kiwix",
       "title": "Use accompanist in place of custom homebrewed permission request",
       "url": "https://github.com/kiwix/kiwix-android/issues/4819",
       "repo": "kiwix/kiwix-android",
@@ -987,6 +1017,7 @@
     {
       "org": "Kiwix",
       "github": "kiwix/kiwix-android",
+      "logo": "https://avatars.githubusercontent.com/kiwix",
       "title": "Remove the swipe gesture from the bottom once the user is familiar with the app",
       "url": "https://github.com/kiwix/kiwix-android/issues/4621",
       "repo": "kiwix/kiwix-android",
@@ -1003,6 +1034,7 @@
     {
       "org": "Kiwix",
       "github": "kiwix/kiwix-android",
+      "logo": "https://avatars.githubusercontent.com/kiwix",
       "title": "Improve look & feel of the TOC",
       "url": "https://github.com/kiwix/kiwix-android/issues/4749",
       "repo": "kiwix/kiwix-android",
@@ -1019,6 +1051,7 @@
     {
       "org": "Kornia",
       "github": "kornia/kornia",
+      "logo": "https://avatars.githubusercontent.com/kornia",
       "title": "ruff (D): adopt some the ignored rules for the docstrings",
       "url": "https://github.com/kornia/kornia/issues/3083",
       "repo": "kornia/kornia",
@@ -1034,6 +1067,7 @@
     {
       "org": "Kornia",
       "github": "kornia/kornia",
+      "logo": "https://avatars.githubusercontent.com/kornia",
       "title": "Remove old `grad` / `jit` / `nn` markers from tests",
       "url": "https://github.com/kornia/kornia/issues/2601",
       "repo": "kornia/kornia",
@@ -1050,6 +1084,7 @@
     {
       "org": "Kornia",
       "github": "kornia/kornia",
+      "logo": "https://avatars.githubusercontent.com/kornia",
       "title": "[Feature request] Common stereo metrics.",
       "url": "https://github.com/kornia/kornia/issues/1123",
       "repo": "kornia/kornia",
@@ -1066,6 +1101,7 @@
     {
       "org": "LabLua",
       "github": "pallene-lang/pallene",
+      "logo": "https://avatars.githubusercontent.com/pallene-lang",
       "title": "Remove unused `GlobalVar` constructor",
       "url": "https://github.com/pallene-lang/pallene/issues/662",
       "repo": "pallene-lang/pallene",
@@ -1078,38 +1114,9 @@
       "language": null
     },
     {
-      "org": "LabLua",
-      "github": "pallene-lang/pallene",
-      "title": "Implement <const> from Lua 5.4",
-      "url": "https://github.com/pallene-lang/pallene/issues/487",
-      "repo": "pallene-lang/pallene",
-      "labels": [
-        "enhancement",
-        "good first issue"
-      ],
-      "comments": 3,
-      "created_at": "2021-09-27T20:36:23Z",
-      "updated_at": "2021-10-06T06:20:22Z",
-      "language": null
-    },
-    {
-      "org": "LabLua",
-      "github": "pallene-lang/pallene",
-      "title": "Comparisons between float and integers",
-      "url": "https://github.com/pallene-lang/pallene/issues/380",
-      "repo": "pallene-lang/pallene",
-      "labels": [
-        "enhancement",
-        "good first issue"
-      ],
-      "comments": 0,
-      "created_at": "2021-05-29T03:47:58Z",
-      "updated_at": "2021-05-29T03:48:48Z",
-      "language": null
-    },
-    {
       "org": "Learning Equality",
       "github": "learningequality/kolibri",
+      "logo": "https://avatars.githubusercontent.com/learningequality",
       "title": "Migrate Device content tree tests to Vue Testing Library",
       "url": "https://github.com/learningequality/kolibri/issues/14262",
       "repo": "learningequality/kolibri",
@@ -1130,6 +1137,7 @@
     {
       "org": "Learning Equality",
       "github": "learningequality/kolibri",
+      "logo": "https://avatars.githubusercontent.com/learningequality",
       "title": "Migrate Device channel management tests to Vue Testing Library",
       "url": "https://github.com/learningequality/kolibri/issues/14261",
       "repo": "learningequality/kolibri",
@@ -1150,6 +1158,7 @@
     {
       "org": "Learning Equality",
       "github": "learningequality/kolibri",
+      "logo": "https://avatars.githubusercontent.com/learningequality",
       "title": "Migrate Device transfer modal tests to Vue Testing Library",
       "url": "https://github.com/learningequality/kolibri/issues/14263",
       "repo": "learningequality/kolibri",
@@ -1170,6 +1179,7 @@
     {
       "org": "LibreHealth",
       "github": "LibreHealthIO/lh-ehr",
+      "logo": "https://avatars.githubusercontent.com/LibreHealthIO",
       "title": "“Print selected statement” displays a list of patients.",
       "url": "https://github.com/LibreHealthIO/lh-ehr/issues/1458",
       "repo": "LibreHealthIO/lh-ehr",
@@ -1183,86 +1193,96 @@
       "language": null
     },
     {
-      "org": "LibreHealth",
-      "github": "LibreHealthIO/lh-ehr",
-      "title": "Enable dropdown when user hovers over menu item",
-      "url": "https://github.com/LibreHealthIO/lh-ehr/issues/1114",
-      "repo": "LibreHealthIO/lh-ehr",
-      "labels": [
-        "Usability",
-        "good first issue"
-      ],
-      "comments": 50,
-      "created_at": "2018-05-11T14:32:46Z",
-      "updated_at": "2023-12-29T14:40:13Z",
-      "language": null
-    },
-    {
-      "org": "LibreHealth",
-      "github": "LibreHealthIO/lh-ehr",
-      "title": "Any File format can be uploaded on the Patient ID Card",
-      "url": "https://github.com/LibreHealthIO/lh-ehr/issues/1428",
-      "repo": "LibreHealthIO/lh-ehr",
+      "org": "LLVM Compiler Infrastructure",
+      "github": "llvm/llvm-project",
+      "logo": "https://avatars.githubusercontent.com/llvm",
+      "title": "[AMDGPU][GlobalISel] Missing opcodes/intrinsics rules in AMDGPURegBankLegalize",
+      "url": "https://github.com/llvm/llvm-project/issues/192497",
+      "repo": "llvm/llvm-project",
       "labels": [
         "good first issue",
-        "Feature: Patient Demographics",
-        "outreachy"
+        "backend:AMDGPU",
+        "llvm:globalisel"
       ],
-      "comments": 13,
-      "created_at": "2019-03-10T15:45:46Z",
-      "updated_at": "2023-01-31T12:03:03Z",
+      "comments": 21,
+      "created_at": "2026-04-16T17:47:46Z",
+      "updated_at": "2026-05-04T17:24:49Z",
       "language": null
     },
     {
       "org": "LLVM Compiler Infrastructure",
       "github": "llvm/llvm-project",
-      "title": "`clang-analyzer-cplusplus.Move` not reported for usage after `std::move()` with range",
-      "url": "https://github.com/llvm/llvm-project/issues/137157",
+      "logo": "https://avatars.githubusercontent.com/llvm",
+      "title": "[CIR] Upstream handling of AArch64 (Arm) Neon builtins",
+      "url": "https://github.com/llvm/llvm-project/issues/185382",
       "repo": "llvm/llvm-project",
       "labels": [
         "good first issue",
-        "clang:static analyzer",
-        "false-negative"
+        "ClangIR"
       ],
-      "comments": 18,
-      "created_at": "2025-04-24T11:00:39Z",
-      "updated_at": "2026-05-02T21:11:24Z",
+      "comments": 75,
+      "created_at": "2026-03-09T09:44:11Z",
+      "updated_at": "2026-05-04T17:02:50Z",
       "language": null
     },
     {
       "org": "LLVM Compiler Infrastructure",
       "github": "llvm/llvm-project",
-      "title": "[libc][math] Tracking Issue - Refactor Higher Math Functions to Header Only",
-      "url": "https://github.com/llvm/llvm-project/issues/147386",
+      "logo": "https://avatars.githubusercontent.com/llvm",
+      "title": "Check the ordering of the *at syscalls",
+      "url": "https://github.com/llvm/llvm-project/issues/195620",
       "repo": "llvm/llvm-project",
       "labels": [
-        "metaissue",
         "good first issue",
         "libc"
       ],
-      "comments": 29,
-      "created_at": "2025-07-07T20:20:30Z",
-      "updated_at": "2026-05-02T11:22:59Z",
-      "language": null
-    },
-    {
-      "org": "LLVM Compiler Infrastructure",
-      "github": "llvm/llvm-project",
-      "title": "Wrong types checked at DAGCombiner::visitSRA(SDNode *N)",
-      "url": "https://github.com/llvm/llvm-project/issues/153543",
-      "repo": "llvm/llvm-project",
-      "labels": [
-        "good first issue",
-        "llvm:SelectionDAG"
-      ],
-      "comments": 7,
-      "created_at": "2025-08-14T07:11:10Z",
-      "updated_at": "2026-05-01T07:00:04Z",
+      "comments": 5,
+      "created_at": "2026-05-04T09:18:27Z",
+      "updated_at": "2026-05-04T11:06:04Z",
       "language": null
     },
     {
       "org": "Meshery",
       "github": "meshery/meshery",
+      "logo": "https://avatars.githubusercontent.com/meshery",
+      "title": "[Docs] Add intra page nav in Rest API reference",
+      "url": "https://github.com/meshery/meshery/issues/19077",
+      "repo": "meshery/meshery",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "area/docs",
+        "language/markdown",
+        "framework/hugo"
+      ],
+      "comments": 1,
+      "created_at": "2026-05-03T22:11:22Z",
+      "updated_at": "2026-05-04T02:56:18Z",
+      "language": null
+    },
+    {
+      "org": "Meshery",
+      "github": "meshery/meshery",
+      "logo": "https://avatars.githubusercontent.com/meshery",
+      "title": "[Docs] Display Designs That Use Each Model on Model Pages",
+      "url": "https://github.com/meshery/meshery/issues/18959",
+      "repo": "meshery/meshery",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "area/docs",
+        "language/markdown",
+        "framework/hugo"
+      ],
+      "comments": 7,
+      "created_at": "2026-04-27T23:09:05Z",
+      "updated_at": "2026-05-03T19:12:16Z",
+      "language": null
+    },
+    {
+      "org": "Meshery",
+      "github": "meshery/meshery",
+      "logo": "https://avatars.githubusercontent.com/meshery",
       "title": "Alignment of Share Btn in Comparison Modal.",
       "url": "https://github.com/meshery/meshery/issues/15173",
       "repo": "meshery/meshery",
@@ -1276,44 +1296,9 @@
       "language": null
     },
     {
-      "org": "Meshery",
-      "github": "meshery/meshery",
-      "title": "[UI] Show different checkbox icon when it used for select all",
-      "url": "https://github.com/meshery/meshery/issues/14157",
-      "repo": "meshery/meshery",
-      "labels": [
-        "kind/enhancement",
-        "good first issue",
-        "language/javascript",
-        "component/ui",
-        "framework/react"
-      ],
-      "comments": 8,
-      "created_at": "2025-03-28T12:32:57Z",
-      "updated_at": "2026-04-29T15:00:08Z",
-      "language": null
-    },
-    {
-      "org": "Meshery",
-      "github": "meshery/meshery",
-      "title": "[Docs] Display Designs That Use Each Model on Model Pages",
-      "url": "https://github.com/meshery/meshery/issues/18959",
-      "repo": "meshery/meshery",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "area/docs",
-        "language/markdown",
-        "framework/hugo"
-      ],
-      "comments": 6,
-      "created_at": "2026-04-27T23:09:05Z",
-      "updated_at": "2026-04-28T16:58:46Z",
-      "language": null
-    },
-    {
       "org": "MetaCall",
       "github": "metacall/core",
+      "logo": "https://avatars.githubusercontent.com/metacall",
       "title": "pre-commit-clang-format not working on windows",
       "url": "https://github.com/metacall/core/issues/370",
       "repo": "metacall/core",
@@ -1330,6 +1315,7 @@
     {
       "org": "MetaCall",
       "github": "metacall/core",
+      "logo": "https://avatars.githubusercontent.com/metacall",
       "title": "Implement Haskell Loader",
       "url": "https://github.com/metacall/core/issues/36",
       "repo": "metacall/core",
@@ -1344,6 +1330,7 @@
     {
       "org": "MetaCall",
       "github": "metacall/core",
+      "logo": "https://avatars.githubusercontent.com/metacall",
       "title": "Implement support for more platforms (specially in dynlink)",
       "url": "https://github.com/metacall/core/issues/232",
       "repo": "metacall/core",
@@ -1358,22 +1345,9 @@
       "language": null
     },
     {
-      "org": "MLLAM",
-      "github": "mllam/mllam-data-prep",
-      "title": "ZeroDevisionError when using 0<dask_distributed_local_core_fraction<1 on machine with one CPU",
-      "url": "https://github.com/mllam/mllam-data-prep/issues/32",
-      "repo": "mllam/mllam-data-prep",
-      "labels": [
-        "good first issue"
-      ],
-      "comments": 1,
-      "created_at": "2024-10-31T10:49:29Z",
-      "updated_at": "2025-02-12T15:47:16Z",
-      "language": null
-    },
-    {
       "org": "Neuroinformatics Unit",
       "github": "neuroinformatics-unit/movement",
+      "logo": "https://avatars.githubusercontent.com/neuroinformatics-unit",
       "title": "Overwrite existing file when saving",
       "url": "https://github.com/neuroinformatics-unit/movement/issues/813",
       "repo": "neuroinformatics-unit/movement",
@@ -1389,6 +1363,7 @@
     {
       "org": "omegaUp",
       "github": "omegaup/omegaup",
+      "logo": "https://avatars.githubusercontent.com/omegaup",
       "title": "INFORMACION ABREVIATURAS EN  ENVIO DE PROBLEMAS ",
       "url": "https://github.com/omegaup/omegaup/issues/6157",
       "repo": "omegaup/omegaup",
@@ -1406,6 +1381,7 @@
     {
       "org": "omegaUp",
       "github": "omegaup/omegaup",
+      "logo": "https://avatars.githubusercontent.com/omegaup",
       "title": "[FEATURE] Create English version of `Runs-API.md`",
       "url": "https://github.com/omegaup/omegaup/issues/8195",
       "repo": "omegaup/omegaup",
@@ -1422,6 +1398,7 @@
     {
       "org": "omegaUp",
       "github": "omegaup/omegaup",
+      "logo": "https://avatars.githubusercontent.com/omegaup",
       "title": "[FEATURE] Improve empty course content state by centering the “Add content” button",
       "url": "https://github.com/omegaup/omegaup/issues/9443",
       "repo": "omegaup/omegaup",
@@ -1438,6 +1415,27 @@
     {
       "org": "Open Food Facts",
       "github": "openfoodfacts/openfoodfacts-server",
+      "logo": "https://avatars.githubusercontent.com/openfoodfacts",
+      "title": "\"Comparison to average values of products in the same category\" is unclear",
+      "url": "https://github.com/openfoodfacts/openfoodfacts-server/issues/2497",
+      "repo": "openfoodfacts/openfoodfacts-server",
+      "labels": [
+        "⏲️ 5 minute fix",
+        "averages by categories",
+        "📚 Documentation",
+        "good first issue",
+        "Fixed ?",
+        "🎨 Design"
+      ],
+      "comments": 8,
+      "created_at": "2019-10-28T19:10:56Z",
+      "updated_at": "2026-05-03T17:00:36Z",
+      "language": null
+    },
+    {
+      "org": "Open Food Facts",
+      "github": "openfoodfacts/openfoodfacts-server",
+      "logo": "https://avatars.githubusercontent.com/openfoodfacts",
       "title": "Log key events of the web version of Open Food Facts in Matomo",
       "url": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8191",
       "repo": "openfoodfacts/openfoodfacts-server",
@@ -1458,6 +1456,7 @@
     {
       "org": "Open Food Facts",
       "github": "openfoodfacts/openfoodfacts-server",
+      "logo": "https://avatars.githubusercontent.com/openfoodfacts",
       "title": "Folksonomy Engine loads CSS and a font from CDNs",
       "url": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9012",
       "repo": "openfoodfacts/openfoodfacts-server",
@@ -1476,29 +1475,9 @@
       "language": null
     },
     {
-      "org": "Open Food Facts",
-      "github": "openfoodfacts/openfoodfacts-server",
-      "title": "Turn product changes history into a knowledge panel table",
-      "url": "https://github.com/openfoodfacts/openfoodfacts-server/issues/7362",
-      "repo": "openfoodfacts/openfoodfacts-server",
-      "labels": [
-        "🎯 P1",
-        "good first issue",
-        "🤳🥫 blocking mobile apps",
-        "product history",
-        "📖 Knowledge Panels",
-        "🎨 Mockup available",
-        "Template::Toolkit",
-        "blocking off explorer"
-      ],
-      "comments": 9,
-      "created_at": "2022-09-18T15:21:10Z",
-      "updated_at": "2026-03-16T02:50:41Z",
-      "language": null
-    },
-    {
       "org": "OpenAstronomy",
       "github": "sunpy/sunpy",
+      "logo": "https://avatars.githubusercontent.com/sunpy",
       "title": "Better explanation of the different clients supported by sunpy",
       "url": "https://github.com/sunpy/sunpy/issues/3800",
       "repo": "sunpy/sunpy",
@@ -1516,6 +1495,7 @@
     {
       "org": "OpenAstronomy",
       "github": "sunpy/sunpy",
+      "logo": "https://avatars.githubusercontent.com/sunpy",
       "title": "Standardise our docstring convention on Time inputs",
       "url": "https://github.com/sunpy/sunpy/issues/2784",
       "repo": "sunpy/sunpy",
@@ -1534,6 +1514,7 @@
     {
       "org": "OpenAstronomy",
       "github": "sunpy/sunpy",
+      "logo": "https://avatars.githubusercontent.com/sunpy",
       "title": "Highlight new contributors better in release notes",
       "url": "https://github.com/sunpy/sunpy/issues/7675",
       "repo": "sunpy/sunpy",
@@ -1550,6 +1531,7 @@
     {
       "org": "OpenMS Inc",
       "github": "OpenMS/OpenMS",
+      "logo": "https://avatars.githubusercontent.com/OpenMS",
       "title": "Create GitHub action to update param changelog on every push",
       "url": "https://github.com/OpenMS/OpenMS/issues/5833",
       "repo": "OpenMS/OpenMS",
@@ -1567,6 +1549,7 @@
     {
       "org": "OpenMS Inc",
       "github": "OpenMS/OpenMS",
+      "logo": "https://avatars.githubusercontent.com/OpenMS",
       "title": "Wrap QC classes in python ",
       "url": "https://github.com/OpenMS/OpenMS/issues/6102",
       "repo": "OpenMS/OpenMS",
@@ -1583,6 +1566,7 @@
     {
       "org": "OpenMS Inc",
       "github": "OpenMS/OpenMS",
+      "logo": "https://avatars.githubusercontent.com/OpenMS",
       "title": "Benchmark replacing maps with unordered_maps",
       "url": "https://github.com/OpenMS/OpenMS/issues/6295",
       "repo": "OpenMS/OpenMS",
@@ -1600,6 +1584,7 @@
     {
       "org": "openSUSE Project",
       "github": "openSUSE/open-build-service",
+      "logo": "https://avatars.githubusercontent.com/openSUSE",
       "title": "Make OBS user documentation more visible",
       "url": "https://github.com/openSUSE/open-build-service/issues/1363",
       "repo": "openSUSE/open-build-service",
@@ -1616,6 +1601,7 @@
     {
       "org": "openSUSE Project",
       "github": "openSUSE/open-build-service",
+      "logo": "https://avatars.githubusercontent.com/openSUSE",
       "title": "Expose mergeservice command in web UI",
       "url": "https://github.com/openSUSE/open-build-service/issues/9704",
       "repo": "openSUSE/open-build-service",
@@ -1632,6 +1618,7 @@
     {
       "org": "openSUSE Project",
       "github": "openSUSE/open-build-service",
+      "logo": "https://avatars.githubusercontent.com/openSUSE",
       "title": "Overlapping html label element prevents from selecting adjacent image template",
       "url": "https://github.com/openSUSE/open-build-service/issues/16428",
       "repo": "openSUSE/open-build-service",
@@ -1648,6 +1635,7 @@
     {
       "org": "OpenVINO Toolkit",
       "github": "openvinotoolkit/openvino",
+      "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
       "title": "[Good First Issue]: Support prim::CallMethod",
       "url": "https://github.com/openvinotoolkit/openvino/issues/29720",
       "repo": "openvinotoolkit/openvino",
@@ -1663,6 +1651,7 @@
     {
       "org": "OpenVINO Toolkit",
       "github": "openvinotoolkit/openvino",
+      "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
       "title": "[Good First Issue]: Support aten::Delete aten::str aten::take",
       "url": "https://github.com/openvinotoolkit/openvino/issues/28707",
       "repo": "openvinotoolkit/openvino",
@@ -1679,6 +1668,7 @@
     {
       "org": "OpenVINO Toolkit",
       "github": "openvinotoolkit/openvino",
+      "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
       "title": "[Good First Issue][JAX FE]: Support jax.lax.scatter operation for JAX",
       "url": "https://github.com/openvinotoolkit/openvino/issues/26573",
       "repo": "openvinotoolkit/openvino",
@@ -1695,61 +1685,59 @@
     {
       "org": "Oppia Foundation",
       "github": "oppia/oppia",
-      "title": "[Feature Request]: Enforce the strict type checks",
-      "url": "https://github.com/oppia/oppia/issues/23496",
+      "logo": "https://avatars.githubusercontent.com/oppia",
+      "title": "[Feature Request]: Allow to unpublish the stories on temporary basis",
+      "url": "https://github.com/oppia/oppia/issues/21166",
       "repo": "oppia/oppia",
       "labels": [
-        "frontend",
-        "good first issue",
-        "enhancement",
-        "Hacktoberfest"
-      ],
-      "comments": 217,
-      "created_at": "2025-09-30T13:46:56Z",
-      "updated_at": "2026-05-03T07:17:00Z",
-      "language": null
-    },
-    {
-      "org": "Oppia Foundation",
-      "github": "oppia/oppia",
-      "title": "core.controllers.base.UserFacingExceptions.NotFoundException",
-      "url": "https://github.com/oppia/oppia/issues/20148",
-      "repo": "oppia/oppia",
-      "labels": [
-        "backend",
-        "good first issue",
-        "server errors",
-        "bug",
-        "Impact: High",
-        "Work: Low",
-        "EUJ LO.4"
-      ],
-      "comments": 39,
-      "created_at": "2024-04-10T17:31:30Z",
-      "updated_at": "2026-05-03T01:17:13Z",
-      "language": null
-    },
-    {
-      "org": "Oppia Foundation",
-      "github": "oppia/oppia",
-      "title": "Implement missing domain objects with full `validate()` function.",
-      "url": "https://github.com/oppia/oppia/issues/21970",
-      "repo": "oppia/oppia",
-      "labels": [
-        "backend",
         "good first issue",
         "enhancement",
         "Impact: Medium",
-        "Work: Low"
+        "Work: Medium"
       ],
-      "comments": 196,
-      "created_at": "2025-02-21T13:47:28Z",
-      "updated_at": "2026-05-02T19:50:44Z",
+      "comments": 17,
+      "created_at": "2024-10-19T14:04:08Z",
+      "updated_at": "2026-05-04T14:18:08Z",
+      "language": null
+    },
+    {
+      "org": "Oppia Foundation",
+      "github": "oppia/oppia",
+      "logo": "https://avatars.githubusercontent.com/oppia",
+      "title": "[BUG]: Take Tour(create exploration) not having skip button, no x( close) button for first part and all the parts are not aligned",
+      "url": "https://github.com/oppia/oppia/issues/23452",
+      "repo": "oppia/oppia",
+      "labels": [
+        "good first issue",
+        "bug",
+        "Impact: Medium",
+        "Work: Medium"
+      ],
+      "comments": 5,
+      "created_at": "2025-09-23T18:02:26Z",
+      "updated_at": "2026-05-04T14:17:59Z",
+      "language": null
+    },
+    {
+      "org": "Oppia Foundation",
+      "github": "oppia/oppia",
+      "logo": "https://avatars.githubusercontent.com/oppia",
+      "title": "[BUG]: External “Forum” link opens in the same tab instead of a new tab",
+      "url": "https://github.com/oppia/oppia/issues/24734",
+      "repo": "oppia/oppia",
+      "labels": [
+        "good first issue",
+        "bug"
+      ],
+      "comments": 3,
+      "created_at": "2026-02-02T05:57:42Z",
+      "updated_at": "2026-05-04T14:17:50Z",
       "language": null
     },
     {
       "org": "PEcAn Project",
       "github": "PecanProject/pecan",
+      "logo": "https://avatars.githubusercontent.com/PecanProject",
       "title": "Clean up and consolidate issue/PR labels (and update labeler workflow)",
       "url": "https://github.com/PecanProject/pecan/issues/3696",
       "repo": "PecanProject/pecan",
@@ -1764,6 +1752,7 @@
     {
       "org": "PEcAn Project",
       "github": "PecanProject/pecan",
+      "logo": "https://avatars.githubusercontent.com/PecanProject",
       "title": "Fix hack in trait.lookup function",
       "url": "https://github.com/PecanProject/pecan/issues/729",
       "repo": "PecanProject/pecan",
@@ -1781,6 +1770,7 @@
     {
       "org": "PEcAn Project",
       "github": "PecanProject/pecan",
+      "logo": "https://avatars.githubusercontent.com/PecanProject",
       "title": "Make `BADM_IC_process()` use PEcAn Settings / MultiSettings consistently",
       "url": "https://github.com/PecanProject/pecan/issues/3699",
       "repo": "PecanProject/pecan",
@@ -1793,97 +1783,532 @@
       "language": null
     },
     {
-      "org": "Pharo Consortium",
-      "github": "pharo-project/pharo",
-      "title": "inspectionRichText is broken with the inspector API changes.",
-      "url": "https://github.com/pharo-project/pharo/issues/19348",
-      "repo": "pharo-project/pharo",
-      "labels": [
-        "Type: Bug",
-        "Good first issue"
-      ],
-      "comments": 3,
-      "created_at": "2026-02-14T11:14:25Z",
-      "updated_at": "2026-04-08T06:59:27Z",
-      "language": null
-    },
-    {
-      "org": "Pharo Consortium",
-      "github": "pharo-project/pharo",
-      "title": "String>>asTime should be deprecated",
-      "url": "https://github.com/pharo-project/pharo/issues/19455",
-      "repo": "pharo-project/pharo",
-      "labels": [
-        "Type: Cleanup",
-        "Good first issue"
-      ],
-      "comments": 0,
-      "created_at": "2026-03-23T09:34:03Z",
-      "updated_at": "2026-03-25T14:42:36Z",
-      "language": null
-    },
-    {
-      "org": "Pharo Consortium",
-      "github": "pharo-project/pharo",
-      "title": "[ Deprecate ] selectorsWithArgs:",
-      "url": "https://github.com/pharo-project/pharo/issues/19467",
-      "repo": "pharo-project/pharo",
-      "labels": [
-        "Type: Bug",
-        "Good first issue"
-      ],
-      "comments": 0,
-      "created_at": "2026-03-25T13:16:49Z",
-      "updated_at": "2026-03-25T14:42:12Z",
-      "language": null
-    },
-    {
-      "org": "preCICE",
-      "github": "precice/precice",
-      "title": "Multiple SolverInterfaces using the C and Fortran bindings",
-      "url": "https://github.com/precice/precice/issues/1200",
-      "repo": "precice/precice",
-      "labels": [
-        "bug",
-        "good first issue",
-        "breaking change",
-        "low priority"
-      ],
-      "comments": 5,
-      "created_at": "2022-03-10T11:06:04Z",
-      "updated_at": "2026-04-27T09:01:20Z",
-      "language": null
-    },
-    {
-      "org": "preCICE",
-      "github": "precice/precice",
-      "title": "Thread-safe Participant",
-      "url": "https://github.com/precice/precice/issues/2407",
-      "repo": "precice/precice",
+      "org": "Stichting SU2",
+      "github": "su2code/SU2",
+      "logo": "https://avatars.githubusercontent.com/su2code",
+      "title": "Issues with compiling SU2 on Windows 10",
+      "url": "https://github.com/su2code/SU2/issues/1468",
+      "repo": "su2code/SU2",
       "labels": [
         "enhancement",
-        "thesis",
+        "documentation",
         "good first issue"
       ],
-      "comments": 13,
-      "created_at": "2025-12-02T12:35:36Z",
-      "updated_at": "2026-03-20T07:22:55Z",
+      "comments": 3,
+      "created_at": "2021-12-08T17:39:03Z",
+      "updated_at": "2026-01-02T10:36:25Z",
       "language": null
     },
     {
-      "org": "preCICE",
-      "github": "precice/precice",
-      "title": "Configurable RBF cut-off threshold",
-      "url": "https://github.com/precice/precice/issues/1265",
-      "repo": "precice/precice",
+      "org": "Submitty",
+      "github": "Submitty/Submitty",
+      "logo": "https://avatars.githubusercontent.com/Submitty",
+      "title": "TA grading panel view of PDF cannot view top of first page",
+      "url": "https://github.com/Submitty/Submitty/issues/12763",
+      "repo": "Submitty/Submitty",
+      "labels": [
+        "bug",
+        "TA Grading / TA UI",
+        "good first issue",
+        "URGENT / PRIORITY"
+      ],
+      "comments": 0,
+      "created_at": "2026-04-08T02:21:48Z",
+      "updated_at": "2026-04-16T20:27:11Z",
+      "language": null
+    },
+    {
+      "org": "Submitty",
+      "github": "Submitty/Submitty",
+      "logo": "https://avatars.githubusercontent.com/Submitty",
+      "title": "Add link from Rainbow Grades to each Gradeable (w/ autograding or TA grading)",
+      "url": "https://github.com/Submitty/Submitty/issues/10433",
+      "repo": "Submitty/Submitty",
+      "labels": [
+        "enhancement / feature request",
+        "Rainbow Grades",
+        "good first issue"
+      ],
+      "comments": 2,
+      "created_at": "2024-05-13T21:01:21Z",
+      "updated_at": "2026-04-11T14:11:14Z",
+      "language": null
+    },
+    {
+      "org": "Submitty",
+      "github": "Submitty/Submitty",
+      "logo": "https://avatars.githubusercontent.com/Submitty",
+      "title": "Enhance Forum Search Feature",
+      "url": "https://github.com/Submitty/Submitty/issues/12619",
+      "repo": "Submitty/Submitty",
+      "labels": [
+        "enhancement / feature request",
+        "good first issue",
+        "Discussion Forum / Live Chat",
+        "Awaiting Triage"
+      ],
+      "comments": 5,
+      "created_at": "2026-03-21T19:36:38Z",
+      "updated_at": "2026-04-05T02:46:32Z",
+      "language": null
+    },
+    {
+      "org": "SW360",
+      "github": "eclipse-sw360/sw360",
+      "logo": "https://avatars.githubusercontent.com/eclipse-sw360",
+      "title": "License moderation request cannot be opened",
+      "url": "https://github.com/eclipse-sw360/sw360/issues/149",
+      "repo": "eclipse-sw360/sw360",
+      "labels": [
+        "bug",
+        "good first issue"
+      ],
+      "comments": 4,
+      "created_at": "2018-04-26T15:13:27Z",
+      "updated_at": "2026-03-07T09:12:35Z",
+      "language": null
+    },
+    {
+      "org": "SW360",
+      "github": "eclipse-sw360/sw360",
+      "logo": "https://avatars.githubusercontent.com/eclipse-sw360",
+      "title": "Automation of clearing details of components",
+      "url": "https://github.com/eclipse-sw360/sw360/issues/119",
+      "repo": "eclipse-sw360/sw360",
       "labels": [
         "enhancement",
-        "good first issue",
-        "configuration"
+        "good first issue"
       ],
-      "comments": 1,
-      "created_at": "2022-04-25T12:07:28Z",
-      "updated_at": "2026-03-16T10:58:55Z",
+      "comments": 3,
+      "created_at": "2018-04-26T15:08:24Z",
+      "updated_at": "2026-02-01T14:52:36Z",
+      "language": null
+    },
+    {
+      "org": "SW360",
+      "github": "eclipse-sw360/sw360",
+      "logo": "https://avatars.githubusercontent.com/eclipse-sw360",
+      "title": "Spreadsheet export as XML or CSV",
+      "url": "https://github.com/eclipse-sw360/sw360/issues/309",
+      "repo": "eclipse-sw360/sw360",
+      "labels": [
+        "enhancement",
+        "good first issue"
+      ],
+      "comments": 4,
+      "created_at": "2018-06-28T11:25:38Z",
+      "updated_at": "2025-10-08T08:51:43Z",
+      "language": null
+    },
+    {
+      "org": "Swift",
+      "github": "swiftlang/swift",
+      "logo": "https://avatars.githubusercontent.com/swiftlang",
+      "title": "replace all uses of `interleave` ( that use \", \") with `interleaveComma`",
+      "url": "https://github.com/swiftlang/swift/issues/88801",
+      "repo": "swiftlang/swift",
+      "labels": [
+        "good first issue"
+      ],
+      "comments": 3,
+      "created_at": "2026-05-04T17:49:16Z",
+      "updated_at": "2026-05-04T18:49:09Z",
+      "language": null
+    },
+    {
+      "org": "Swift",
+      "github": "swiftlang/swift",
+      "logo": "https://avatars.githubusercontent.com/swiftlang",
+      "title": "Misleading error about `nonisolated` not being applicable to mutable stored properties",
+      "url": "https://github.com/swiftlang/swift/issues/88709",
+      "repo": "swiftlang/swift",
+      "labels": [
+        "concurrency",
+        "compiler",
+        "good first issue",
+        "diagnostics quality",
+        "type checker",
+        "actor isolation",
+        "swift 6.3"
+      ],
+      "comments": 2,
+      "created_at": "2026-04-28T16:08:41Z",
+      "updated_at": "2026-04-28T20:18:19Z",
+      "language": null
+    },
+    {
+      "org": "Swift",
+      "github": "swiftlang/swift",
+      "logo": "https://avatars.githubusercontent.com/swiftlang",
+      "title": "Separate `-dump-clang-diagnostics` into two features.",
+      "url": "https://github.com/swiftlang/swift/issues/87757",
+      "repo": "swiftlang/swift",
+      "labels": [
+        "clang importer",
+        "good first issue"
+      ],
+      "comments": 4,
+      "created_at": "2026-03-09T22:50:40Z",
+      "updated_at": "2026-04-15T10:36:14Z",
+      "language": null
+    },
+    {
+      "org": "SymPy",
+      "github": "sympy/sympy",
+      "logo": "https://avatars.githubusercontent.com/sympy",
+      "title": "Refine is not able to make many simplifications",
+      "url": "https://github.com/sympy/sympy/issues/27888",
+      "repo": "sympy/sympy",
+      "labels": [
+        "Easy to Fix",
+        "assumptions",
+        "good first issue",
+        "assumptions.refine"
+      ],
+      "comments": 29,
+      "created_at": "2025-04-03T23:15:01Z",
+      "updated_at": "2026-04-21T23:37:09Z",
+      "language": null
+    },
+    {
+      "org": "SymPy",
+      "github": "sympy/sympy",
+      "logo": "https://avatars.githubusercontent.com/sympy",
+      "title": "Adding more type annotations to the codebase",
+      "url": "https://github.com/sympy/sympy/issues/28806",
+      "repo": "sympy/sympy",
+      "labels": [
+        "Easy to Fix",
+        "good first issue",
+        "typing"
+      ],
+      "comments": 101,
+      "created_at": "2025-12-21T13:17:04Z",
+      "updated_at": "2026-04-15T21:14:37Z",
+      "language": null
+    },
+    {
+      "org": "Synfig",
+      "github": "synfig/synfig",
+      "logo": "https://avatars.githubusercontent.com/synfig",
+      "title": "\"Add Layer\" button to toolbar?",
+      "url": "https://github.com/synfig/synfig/issues/1139",
+      "repo": "synfig/synfig",
+      "labels": [
+        "Feature request",
+        "help wanted",
+        "good first issue"
+      ],
+      "comments": 22,
+      "created_at": "2020-02-01T13:11:00Z",
+      "updated_at": "2026-02-28T14:43:35Z",
+      "language": null
+    },
+    {
+      "org": "Synfig",
+      "github": "synfig/synfig",
+      "logo": "https://avatars.githubusercontent.com/synfig",
+      "title": "Feature request: Add support of Angle type to Log converter",
+      "url": "https://github.com/synfig/synfig/issues/3582",
+      "repo": "synfig/synfig",
+      "labels": [
+        "Easy",
+        "good first issue"
+      ],
+      "comments": 8,
+      "created_at": "2025-05-15T03:15:53Z",
+      "updated_at": "2025-07-02T10:27:52Z",
+      "language": null
+    },
+    {
+      "org": "Synfig",
+      "github": "synfig/synfig",
+      "logo": "https://avatars.githubusercontent.com/synfig",
+      "title": "User-friendly rendering dialogue",
+      "url": "https://github.com/synfig/synfig/issues/721",
+      "repo": "synfig/synfig",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "UI/UX"
+      ],
+      "comments": 12,
+      "created_at": "2019-02-05T15:21:52Z",
+      "updated_at": "2025-06-12T04:15:13Z",
+      "language": null
+    },
+    {
+      "org": "TARDIS RT Collaboration",
+      "github": "tardis-sn/tardis",
+      "logo": "https://avatars.githubusercontent.com/tardis-sn",
+      "title": "Move CSVY writer from custom abundance widget to io",
+      "url": "https://github.com/tardis-sn/tardis/issues/1927",
+      "repo": "tardis-sn/tardis",
+      "labels": [
+        "good first issue",
+        "io"
+      ],
+      "comments": 6,
+      "created_at": "2022-03-14T17:40:34Z",
+      "updated_at": "2026-02-02T17:59:08Z",
+      "language": null
+    },
+    {
+      "org": "TARDIS RT Collaboration",
+      "github": "tardis-sn/tardis",
+      "logo": "https://avatars.githubusercontent.com/tardis-sn",
+      "title": "Cannot disable convergence plots",
+      "url": "https://github.com/tardis-sn/tardis/issues/2917",
+      "repo": "tardis-sn/tardis",
+      "labels": [
+        "easy",
+        "good first issue"
+      ],
+      "comments": 6,
+      "created_at": "2024-12-30T06:04:51Z",
+      "updated_at": "2026-01-29T18:21:36Z",
+      "language": null
+    },
+    {
+      "org": "TARDIS RT Collaboration",
+      "github": "tardis-sn/tardis",
+      "logo": "https://avatars.githubusercontent.com/tardis-sn",
+      "title": "Using `tardis.__path__` to determine the TARDIS module location can break in edge cases",
+      "url": "https://github.com/tardis-sn/tardis/issues/3021",
+      "repo": "tardis-sn/tardis",
+      "labels": [
+        "good first issue",
+        "bug :lady_beetle:"
+      ],
+      "comments": 4,
+      "created_at": "2025-03-20T14:07:15Z",
+      "updated_at": "2026-01-28T14:40:54Z",
+      "language": null
+    },
+    {
+      "org": "The Julia Language",
+      "github": "JuliaLang/julia",
+      "logo": "https://avatars.githubusercontent.com/JuliaLang",
+      "title": "implement String(::Base.Generator)",
+      "url": "https://github.com/JuliaLang/julia/issues/57072",
+      "repo": "JuliaLang/julia",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "strings"
+      ],
+      "comments": 10,
+      "created_at": "2025-01-16T19:04:36Z",
+      "updated_at": "2026-04-01T23:00:40Z",
+      "language": null
+    },
+    {
+      "org": "The Julia Language",
+      "github": "JuliaLang/julia",
+      "logo": "https://avatars.githubusercontent.com/JuliaLang",
+      "title": "Bug in heapsnapshot generation for arrays of inlined objects",
+      "url": "https://github.com/JuliaLang/julia/issues/61396",
+      "repo": "JuliaLang/julia",
+      "labels": [
+        "GC",
+        "good first issue",
+        "observability"
+      ],
+      "comments": 5,
+      "created_at": "2026-03-23T17:42:57Z",
+      "updated_at": "2026-03-27T06:22:32Z",
+      "language": null
+    },
+    {
+      "org": "The Julia Language",
+      "github": "JuliaLang/julia",
+      "logo": "https://avatars.githubusercontent.com/JuliaLang",
+      "title": "Unexpected behavior due to implicit `convert` with `Char` and `Integer`",
+      "url": "https://github.com/JuliaLang/julia/issues/44410",
+      "repo": "JuliaLang/julia",
+      "labels": [
+        "good first issue",
+        "strings"
+      ],
+      "comments": 10,
+      "created_at": "2022-03-02T14:35:44Z",
+      "updated_at": "2026-02-25T10:29:48Z",
+      "language": null
+    },
+    {
+      "org": "The OpenROAD Initiative",
+      "github": "The-OpenROAD-Project/OpenROAD",
+      "logo": "https://avatars.githubusercontent.com/The-OpenROAD-Project",
+      "title": "Create an IP Checker Utility",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD/issues/4872",
+      "repo": "The-OpenROAD-Project/OpenROAD",
+      "labels": [
+        "enhancement",
+        "good first issue"
+      ],
+      "comments": 26,
+      "created_at": "2024-03-29T23:08:40Z",
+      "updated_at": "2026-04-12T20:55:35Z",
+      "language": null
+    },
+    {
+      "org": "The OpenROAD Initiative",
+      "github": "The-OpenROAD-Project/OpenROAD",
+      "logo": "https://avatars.githubusercontent.com/The-OpenROAD-Project",
+      "title": "Add some good examples from antonblanchard/vlsiffra as a regression test / benchmark",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD/issues/2361",
+      "repo": "The-OpenROAD-Project/OpenROAD",
+      "labels": [
+        "good first issue"
+      ],
+      "comments": 7,
+      "created_at": "2022-10-12T20:20:27Z",
+      "updated_at": "2026-03-18T10:08:33Z",
+      "language": null
+    },
+    {
+      "org": "The OpenROAD Initiative",
+      "github": "The-OpenROAD-Project/OpenROAD",
+      "logo": "https://avatars.githubusercontent.com/The-OpenROAD-Project",
+      "title": "Add library of useful functions for doing manual placement of cells",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD/issues/4041",
+      "repo": "The-OpenROAD-Project/OpenROAD",
+      "labels": [
+        "good first issue"
+      ],
+      "comments": 22,
+      "created_at": "2023-09-25T18:17:36Z",
+      "updated_at": "2026-03-17T20:37:50Z",
+      "language": null
+    },
+    {
+      "org": "Tiled",
+      "github": "mapeditor/tiled",
+      "logo": "https://avatars.githubusercontent.com/mapeditor",
+      "title": "Double-click to add custom property",
+      "url": "https://github.com/mapeditor/tiled/issues/845",
+      "repo": "mapeditor/tiled",
+      "labels": [
+        "usability",
+        "good first issue"
+      ],
+      "comments": 6,
+      "created_at": "2014-12-21T03:04:38Z",
+      "updated_at": "2026-03-18T10:18:21Z",
+      "language": null
+    },
+    {
+      "org": "Tiled",
+      "github": "mapeditor/tiled",
+      "logo": "https://avatars.githubusercontent.com/mapeditor",
+      "title": "Doubleclick to edit custom property key",
+      "url": "https://github.com/mapeditor/tiled/issues/1662",
+      "repo": "mapeditor/tiled",
+      "labels": [
+        "usability",
+        "good first issue"
+      ],
+      "comments": 10,
+      "created_at": "2017-07-25T12:40:53Z",
+      "updated_at": "2026-03-18T06:30:58Z",
+      "language": null
+    },
+    {
+      "org": "Tiled",
+      "github": "mapeditor/tiled",
+      "logo": "https://avatars.githubusercontent.com/mapeditor",
+      "title": "Expand/collapse layers API",
+      "url": "https://github.com/mapeditor/tiled/issues/3997",
+      "repo": "mapeditor/tiled",
+      "labels": [
+        "good first issue"
+      ],
+      "comments": 9,
+      "created_at": "2024-07-05T00:46:01Z",
+      "updated_at": "2026-03-06T15:44:02Z",
+      "language": null
+    },
+    {
+      "org": "Typelevel",
+      "github": "typelevel/cats",
+      "logo": "https://avatars.githubusercontent.com/typelevel",
+      "title": "Make `Hash.fromUniversalHashCode` null safe",
+      "url": "https://github.com/typelevel/cats/issues/4831",
+      "repo": "typelevel/cats",
+      "labels": [
+        "good first issue"
+      ],
+      "comments": 4,
+      "created_at": "2026-02-22T22:45:13Z",
+      "updated_at": "2026-04-13T21:42:36Z",
+      "language": null
+    },
+    {
+      "org": "Typelevel",
+      "github": "typelevel/cats",
+      "logo": "https://avatars.githubusercontent.com/typelevel",
+      "title": "Add doctests (excellent first-time issue)",
+      "url": "https://github.com/typelevel/cats/issues/2479",
+      "repo": "typelevel/cats",
+      "labels": [
+        "help wanted",
+        "documentation",
+        "good first issue"
+      ],
+      "comments": 14,
+      "created_at": "2018-09-07T16:40:38Z",
+      "updated_at": "2025-12-25T21:33:53Z",
+      "language": null
+    },
+    {
+      "org": "Zulip",
+      "github": "zulip/zulip",
+      "logo": "https://avatars.githubusercontent.com/zulip",
+      "title": "Separate `command` and `text` field for slack-compatible outgoing webhook",
+      "url": "https://github.com/zulip/zulip/issues/19589",
+      "repo": "zulip/zulip",
+      "labels": [
+        "help wanted",
+        "area: integrations",
+        "good first issue"
+      ],
+      "comments": 72,
+      "created_at": "2021-08-18T03:26:49Z",
+      "updated_at": "2026-05-01T20:40:43Z",
+      "language": null
+    },
+    {
+      "org": "Zulip",
+      "github": "zulip/zulip",
+      "logo": "https://avatars.githubusercontent.com/zulip",
+      "title": "buddy_list: Use `::before` for status circle",
+      "url": "https://github.com/zulip/zulip/issues/37031",
+      "repo": "zulip/zulip",
+      "labels": [
+        "good first issue",
+        "area: right sidebar"
+      ],
+      "comments": 88,
+      "created_at": "2025-12-12T00:31:47Z",
+      "updated_at": "2026-04-24T00:47:46Z",
+      "language": null
+    },
+    {
+      "org": "Zulip",
+      "github": "zulip/zulip",
+      "logo": "https://avatars.githubusercontent.com/zulip",
+      "title": "Add join/leave notifications for private channels",
+      "url": "https://github.com/zulip/zulip/issues/2746",
+      "repo": "zulip/zulip",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "area: channel settings",
+        "in progress"
+      ],
+      "comments": 121,
+      "created_at": "2016-12-16T19:18:51Z",
+      "updated_at": "2026-01-14T14:28:24Z",
       "language": null
     }
   ]
